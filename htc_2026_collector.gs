@@ -10,7 +10,7 @@
  * 5. Execute as: Me
  * 6. Who has access: Anyone
  * 7. Click Deploy → copy the Web App URL
- * 8. Paste that URL into htc_2026_survey.html where it says YOUR_APPS_SCRIPT_URL_HERE
+ * 8. Paste that URL into index.html where it says YOUR_APPS_SCRIPT_URL_HERE
  *
  * A Google Sheet named "HTC 2026 Survey Responses" will be created automatically
  * in your Google Drive on first submission.
